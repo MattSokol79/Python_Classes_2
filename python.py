@@ -25,6 +25,7 @@ class Python(Snake):
 # Creating an object of the Python() class
 python_object = Python()
 
-# print(python_object.hunt())
-# print(python_object.eat())
-# print(python_object.use_tongue_to_smell())
+# print(python_object.eat())                       FROM Animal Class
+# print(python_object.hunt())                      FROM Reptile Class
+# print(python_object.use_tongue_to_smell())       FROM Snake Class
+# print(python_object.climb())                     FROM Python Class
