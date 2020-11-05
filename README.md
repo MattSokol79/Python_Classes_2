@@ -33,3 +33,6 @@ file/importing it
 - We will create 2 files `__name__ and __main__` 
 in both files and the outcome will show the 
 difference
+
+[__name__ & __main__](https://github.com/MattSokol79/Python_OOP_2/blob/main/mod_1.py)
+[__name__ & __main__ 2](https://github.com/MattSokol79/Python_OOP_2/blob/main/mod_2.py)
