@@ -14,7 +14,7 @@ if __name__ == "__main__": # it checks whether the code is run from current file
 # We can make another __name__ == "__main__": in another file and in that
 # if statement we can create funky shit we need debugging that
 # will not be ran if we import but it will run when we run that specific file
-# @Farah^.^ the file you run py file_name.py is always __main__
+# the file you run py file_name.py is always __main__
 # file you import
 # lets say from python import Python
 # its __name__ == python
