@@ -1,4 +1,4 @@
-# OOP Part 2
+## OOP Part 2 - Inheritance of classes
 
 **Step 1**
 - Created an Animal class as our Parent Class
@@ -25,3 +25,11 @@ of the Snake class
 from the other classes above it
 
 [Python](https://github.com/MattSokol79/Python_OOP_2/blob/main/python.py)
+
+### Name and Main
+- `__name__ and __main__` are used to check if the code
+is run from current file/directly for different
+file/importing it
+- We will create 2 files `__name__ and __main__` 
+in both files and the outcome will show the 
+difference
