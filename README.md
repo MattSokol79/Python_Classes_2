@@ -3,14 +3,24 @@
 **Step 1**
 - Creating an Animal class as our Parent
 
+[Animal]()
+
 **Step 2**
 - Create a Reptile class as the child class
 - Why? So we can Inherit from our Parent
 class
 - Abstract
 
+[Reptile]()
+
 **Step 3**
-- Create Snake class as child of Reptile
+- Create Snake class as child 
+of Reptile class
+
+[Snake]()
 
 **Step 4**
-- Create a Python class
+- Create a Python class as a child 
+of the Snake class
+
+[Python]()
