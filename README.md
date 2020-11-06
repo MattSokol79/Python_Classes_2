@@ -41,6 +41,7 @@ difference
 ### Getters and Setters
 - Works on the basis of defining a getter and setter
 function which restricts access to certain parts of
-code. 
+code to a user so that a user wont be able to 
+edit it in an unwanted way. 
 
-[Getters and Setters]()
+[Getters and Setters](https://github.com/MattSokol79/Python_Classes_2/blob/main/getters_setters.py)
