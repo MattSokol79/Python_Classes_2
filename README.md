@@ -37,3 +37,10 @@ difference
 [__name__ & __main__](https://github.com/MattSokol79/Python_OOP_2/blob/main/mod_1.py)
 
 [__name__ & __main__ 2](https://github.com/MattSokol79/Python_OOP_2/blob/main/mod_2.py)
+
+### Getters and Setters
+- Works on the basis of defining a getter and setter
+function which restricts access to certain parts of
+code. 
+
+[Getters and Setters]()
