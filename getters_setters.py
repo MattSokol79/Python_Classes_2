@@ -12,12 +12,12 @@ class Student:
 
     @property # A decorator in python is any callable python object that is used
     # to modify a function or a class
-    def Student(self, value):
+    def Student(self, value): # Setter
         self.__name # __ are used to hide the data
 
 
     @Student.setter # Allows special permissions to access the name
-    def Student(self, value):
+    def Student(self, value): # Getter
         print(" calling @student.student method")
         self.__name = value
 
